@@ -1,1 +1,32 @@
-/* Add your styles here. */
+/* Add your styles here. */ 
+/* Type selector */
+p {
+    color:blue;
+}
+h1 {
+    color:red;
+}
+
+/* Class selector */
+.bold {
+    font-weight: bold;
+}
+
+/* Id selector */
+#fun-fact {
+    font-style: normal;
+}
+@media (max-width: 600px) {
+    p {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+}
+a {
+    color: green;
+}
+a:hover {
+    background-color: orange;
+}

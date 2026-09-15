@@ -13,6 +13,9 @@ h1 {
 }
 
 /* Id selector */
+#top {
+    color: purple;
+}
 #fun-fact {
     font-style: normal;
 }

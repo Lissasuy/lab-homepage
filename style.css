@@ -11,7 +11,20 @@ h1 {
 .bold {
     font-weight: bold;
 }
-
+.italic {
+    font-style: italic;
+}
+.box {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.SR {
+    border: 2px solid lightgray;
+    padding: 5px;
+    margin: 5px;
+    
+}
 /* Id selector */
 #top {
     color: green;
@@ -36,3 +49,16 @@ p:hover {
     background-color: yellow;
 }
 
+
+.my-table {
+  width: 100%;                  
+  border-collapse: collapse;    
+  font-family: sans-serif;
+}
+
+
+.my-table td {
+  border: 1px solid #ccc;       
+  padding: 12px;                
+  text-align: center;           
+}

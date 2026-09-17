@@ -17,11 +17,13 @@ h1 {
     color: green;
 }
 #fun-fact {
-    font-style: normal;
+    font-style: italic;
+    
 }
+
 @media (max-width: 600px) {
     p {
-        font-size: 14px;
+        font-size: 16px;
     }
     h1 {
         font-size: 20px;

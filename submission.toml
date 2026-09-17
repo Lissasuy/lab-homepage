@@ -1,0 +1,6 @@
+site_url = "https://lissasuy.github.io/lab-homepage/"
+archive_url = "/web/20260917062634/https://lissasuy.github.io/lab-homepage/"
+backlink_urls = [
+  "webflow.com/website/Pick-a-Card-Any-Card",
+  "https://cms-code.webflow.io/",
+]
